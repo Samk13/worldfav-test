@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
-    "@material-ui/styles": "^4.11.2",
+    "@material-ui/styles": "^4.11.3",
     "axios": "^0.21.1",
     "axios-mock-adapter": "^1.19.0",
     "lodash": "^4.17.21",
