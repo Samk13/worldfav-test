@@ -17,7 +17,7 @@
 
     "react-scripts": "5.0.1",
     "redux": "^4.2.1",
-    "reselect": "^4.1.7"
+    "reselect": "^4.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
